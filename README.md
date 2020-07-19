@@ -4,7 +4,7 @@
 Reconocimiento de texto con la cámara en flutter. 
 
 
-[Video Tutorial](https://youtu.be/5l9w15cgU5w)
+[Video Tutorial](https://youtu.be/DjvGID2jNSY)
 
 ## Comenzar
 
